@@ -1,0 +1,21 @@
+ through your paper and try to incorporate the following into each section
+ Background / related work
+ Introduction
+
+
+ brief introduction about the domain and the problem
+ and Problem description
+ to include possible examples
+ about the problem
+ methodologies
+ are the possible consequences if the problem is not dealt with properly?
+
+ kind of applications are benefited out of this survey
+ Methodology
+ pitfalls with the existing (surveyed) solutions
+
+ the reasons for this survey
+ a possible architecture diagram
+ do you structure the rest of the paper about the papers included in the study (try to include papers that are at least 10 years old)
+ about the papers included in the study (try to include papers that are at least 10 years old)
+ would include the columns Major approach, years (2001, 2005-2010,...), total would include the columns Major approach, years (2001, 2005-2010,...), total

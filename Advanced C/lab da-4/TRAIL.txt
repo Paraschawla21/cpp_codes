@@ -1,0 +1,11 @@
+Under critical review
+---------------------
+Start with, the problem as the heading
+If possible, one section for existing old surveys in this problem domain.
+List the criterias chosen by you for survey this domain.
+Group papers under different MAJOR APPROACHES (eg. supervised, semi-supervised, hybrid, unsupervised, neural network,  etc.)
+Comparison tables can be included in each of these subsection. (eg. table with; study, dataset, approach, features, results, etc.)
+Table for summary of existing surveys with columns, study, major focus, coverage (years), precision, recall, f-measure score etc.
+Table for toolkits or online resources for the problem chosen with columns, tool name, language/package, tasks supported, language supported, link to the source, etc.
+Table that includes the columns for method, tested parameter, 
+A subsection can be included to compare and discuss all the solutions in some aspects

@@ -1,0 +1,11 @@
+Go through your paper and try to incorporate the following into each section
+
+Under Introduction
+------------------
+Domain and Problem description
+History about the problem
+What are the possible consequences if the problem is not dealt with properly?
+What kind of applications are benefited out of this survey
+Major pitfalls with the existing (surveyed) solutions
+State the reasons for this survey
+How do you structure the rest of the paper

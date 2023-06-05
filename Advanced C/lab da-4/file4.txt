@@ -1,0 +1,12 @@
+Under Background / related work
+-------------------------------
+Give brief introduction about the domain and the problem
+Try to include possible examples
+Evaluation methodologies
+Datasets
+
+Under Methodology
+------------------
+Draw a possible architecture diagram
+Table about the papers included in the study (try to include papers that are at least 10 years old)
+Table would include the columns Major approach, years (2001, 2005-2010,...), totalÿ
